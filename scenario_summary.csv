@@ -1,0 +1,6 @@
+,Avg Travel Time (min),Avg Travel Time (min),Avg Travel Time (min),Max Travel Time (min),Min Travel Time (min)
+,mean,min,max,mean,mean
+Scenario,,,,,
+Accident Surge,43.42,34.4,57.26,147.89,0.44
+Base,44.22,34.9,57.26,155.1,0.34
+Rush Hour,66.33,52.34,85.9,232.65,0.52
